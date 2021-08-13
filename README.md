@@ -2,15 +2,12 @@
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
 * Autor: Cardozo Germán Eloy
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Título corto del trabajo:  ESP32-CAM
+* Descripción:  El siguiente proyecto incluye tanto el circuito esquemático como el diseño del PCB realizado en kicad. A su vez se anexan diversas hojas de datos y bibliotecasutilizadas en su desarrollo.
 
 
 ## Licencia de este trabajo ##
-XXXMENCIONAR ACÁ LA LICENCIAXXX (Editar este párrafo) 
-Y además colcar el archivo de texto de la misma en el directorio raíz.
-Para este TP se pide que la licencia sea de hardware abierto.
-Ver la sección "What license should I use?": https://www.oshwa.org/faq/
+Licencia GNU GPL
 
 ## Estructura del TP FINAL ##
 
