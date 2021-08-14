@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "ESP32-CAM"
+Title "Réplica ESP32-CAM"
 Date "2021-07-02"
 Rev "V1.0"
 Comp "Germán Eloy Cardozo"
@@ -128,7 +128,7 @@ U 1 1 611C9FDF
 P 2450 4000
 F 0 "CN1" H 2050 4000 50  0000 C CNN
 F 1 "ESP32CAM_P1" H 2450 3500 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical" V 2450 4025 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" V 2450 4025 50  0001 C CNN
 F 3 "~" V 2450 4025 50  0001 C CNN
 	1    2450 4000
 	1    0    0    -1  
@@ -150,7 +150,7 @@ U 1 1 611FA2E7
 P 6850 5050
 F 0 "CN4" H 6907 5717 50  0000 C CNN
 F 1 "ESP32CAM_P2" H 6907 5626 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x08_P1.27mm_Vertical" V 6850 5075 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" V 6850 5075 50  0001 C CNN
 F 3 "~" V 6850 5075 50  0001 C CNN
 	1    6850 5050
 	1    0    0    -1  
@@ -981,7 +981,7 @@ U 1 1 618136FD
 P 10400 2950
 F 0 "Q1" H 10591 2996 50  0000 L CNN
 F 1 "S8050" H 10591 2905 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SC-59_Handsoldering" H 10600 2875 50  0001 L CIN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 10600 2875 50  0001 L CIN
 F 3 "http://www.unisonic.com.tw/datasheet/S8050.pdf" H 10400 2950 50  0001 L CNN
 	1    10400 2950
 	1    0    0    -1  
@@ -1255,7 +1255,7 @@ U 1 1 611F50D0
 P 3650 6150
 F 0 "Q2" V 3992 6150 50  0000 C CNN
 F 1 "PMOS" V 3901 6150 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-89-3_Handsoldering" H 3850 6250 50  0001 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3850 6250 50  0001 C CNN
 F 3 "~" H 3650 6150 50  0001 C CNN
 	1    3650 6150
 	0    1    -1   0   
@@ -1516,7 +1516,7 @@ U 1 1 61624224
 P 8000 3200
 F 0 "H3" H 8100 3246 50  0000 L CNN
 F 1 "MountingHole" H 8100 3155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 8000 3200 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 8000 3200 50  0001 C CNN
 F 3 "~" H 8000 3200 50  0001 C CNN
 	1    8000 3200
 	1    0    0    -1  
@@ -1527,7 +1527,7 @@ U 1 1 6162422A
 P 8000 3500
 F 0 "H4" H 8100 3546 50  0000 L CNN
 F 1 "MountingHole" H 8100 3455 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 8000 3500 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.1mm" H 8000 3500 50  0001 C CNN
 F 3 "~" H 8000 3500 50  0001 C CNN
 	1    8000 3500
 	1    0    0    -1  
