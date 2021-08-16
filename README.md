@@ -3,7 +3,7 @@ Este repositorio contiene el trabajo práctico final para la asignatura de Dise�
 
 * Autor: Cardozo Germán Eloy
 * Título corto del trabajo:  ESP32-CAM
-* Descripción:  El siguiente proyecto incluye tanto el circuito esquemático como el diseño del PCB realizado en kicad. A su vez se anexan diversas hojas de datos y bibliotecasutilizadas en su desarrollo.
+* Descripción:  El siguiente proyecto incluye tanto el circuito esquemático como el diseño del PCB realizado en kicad. A su vez se anexan diversas hojas de datos y bibliotecas utilizadas en su desarrollo.
 
 
 ## Licencia de este trabajo ##
@@ -27,10 +27,3 @@ Se propone y se pide utilizar la siguiente estructura.
   * Info de productos comerciales.
   * Info en internet.
 * pcb: Archivos de diseño esquemático y pcb.
-
-Dependiendo la magnitud del proyecto, tendremos más o menos información en estos directorios. 
-Revisar los README.md en cada directorio para conocer las pautas de cada uno para este TP.
-
-NOTA: El alumno puede y debe borrar de este archivo todo lo que considere necesario, por ejemplo las aclaraciones del docente y esta misma nota.
-
-
