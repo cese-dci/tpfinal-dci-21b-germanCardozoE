@@ -129,7 +129,7 @@ P 2450 4000
 F 0 "J2" H 2050 4000 50  0000 C CNN
 F 1 "ESP32CAM_P1" H 2450 3500 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" V 2450 4025 50  0001 C CNN
-F 3 "~" V 2450 4025 50  0001 C CNN
+F 3 "https://ar.mouser.com/datasheet/2/35/12034-strip-line-header-337594.pdf" V 2450 4025 50  0001 C CNN
 	1    2450 4000
 	1    0    0    -1  
 $EndComp
@@ -140,7 +140,7 @@ P 6200 4150
 F 0 "J1" H 6400 7550 50  0000 L CNN
 F 1 "Cam_Connector" H 6200 5600 50  0000 L CNN
 F 2 "Connector_FFC-FPC:TE_2-1734839-4_1x24-1MP_P0.5mm_Horizontal" H 6200 4200 50  0001 C CNN
-F 3 " ~" H 6200 4200 50  0001 C CNN
+F 3 "https://ar.mouser.com/datasheet/2/185/FH12_CL0586_0704_0_55_2d-1614775.pdf" H 6200 4200 50  0001 C CNN
 	1    6200 4150
 	1    0    0    -1  
 $EndComp
@@ -151,7 +151,7 @@ P 6850 5050
 F 0 "J4" H 6907 5717 50  0000 C CNN
 F 1 "ESP32CAM_P2" H 6907 5626 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" V 6850 5075 50  0001 C CNN
-F 3 "~" V 6850 5075 50  0001 C CNN
+F 3 "https://ar.mouser.com/datasheet/2/35/12034-strip-line-header-337594.pdf" V 6850 5075 50  0001 C CNN
 	1    6850 5050
 	1    0    0    -1  
 $EndComp

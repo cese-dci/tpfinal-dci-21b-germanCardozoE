@@ -1559,10 +1559,10 @@ ETAPA PRINCIPAL (ESP32)
 Wire Wire Line
 	2550 1350 3750 1350
 $Comp
-L Mechanical:Fiducial H5
+L Mechanical:Fiducial FID1
 U 1 1 611CB90A
 P 8150 1100
-F 0 "H5" H 8235 1146 50  0000 L CNN
+F 0 "FID1" H 8235 1146 50  0000 L CNN
 F 1 "Fiducial" H 8235 1055 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 8150 1100 50  0001 C CNN
 F 3 "~" H 8150 1100 50  0001 C CNN
@@ -1570,10 +1570,10 @@ F 3 "~" H 8150 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:Fiducial H6
+L Mechanical:Fiducial FID2
 U 1 1 611CDC21
 P 8150 1350
-F 0 "H6" H 8235 1396 50  0000 L CNN
+F 0 "FID2" H 8235 1396 50  0000 L CNN
 F 1 "Fiducial" H 8235 1305 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 8150 1350 50  0001 C CNN
 F 3 "~" H 8150 1350 50  0001 C CNN
